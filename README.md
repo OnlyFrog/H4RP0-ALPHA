@@ -40,7 +40,7 @@ Il cible principalement les environnements de tests d’intrusion (pentesting) e
 
 ### Pré-requis système
 
-- Python 3.8+  
+ 
 - Droits administrateur/root (requis pour sniffing et spoofing réseau)  
 - Nmap installé sur la machine (disponible sur [nmap.org](https://nmap.org))
 
